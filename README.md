@@ -90,5 +90,5 @@ See [LICENSE.txt](license.txt) for details.
 # References
 
 C++ standardisation papers:
-* [P0443R11](https://wg21.link) "A Unified Executors Proposal for C++"
+* [P0443](https://wg21.link/P0443) Evolving version of "A Unified Executors Proposal for C++"
 * ...
